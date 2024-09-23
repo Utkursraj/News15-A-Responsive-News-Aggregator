@@ -17,7 +17,7 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/news15.git
+git clone
 Navigate to the project directory:
 bash
 Copy code
